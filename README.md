@@ -25,8 +25,12 @@ Basic Architecture
 Manufacturing Shop Floor monitor, Data Centers Monitoring, Any Critical Monitoring systems/ workforce
 
 #### Relevant Datasets:
+https://github.com/numenta/NAB
+
 https://www.kaggle.com/caesarlupum/iot-sensordata
+
 https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill
+
 https://github.com/IBM/iot-predictive-analytics/blob/master/data/iot_sensor_dataset.csv
 
 
