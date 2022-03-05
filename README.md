@@ -31,3 +31,9 @@ https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill
 
 https://github.com/IBM/iot-predictive-analytics/blob/master/data/iot_sensor_dataset.csv
 
+https://github.com/sassoftware/iot-anomaly-detection-hvac/tree/master/data
+
+https://catalog.data.gov/dataset/alphabuilding-synthetic-dataset
+
+https://ieee-dataport.org/documents/hvac-air-handling-units-one-year-data-medium-large-size-academic-building
+
