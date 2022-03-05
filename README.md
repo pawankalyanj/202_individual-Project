@@ -11,7 +11,7 @@ Perform anomaly detection on time-series data of Internet of Things (IoT) based 
 To solve this, we are building a system to scalibily ingest HVAC IoT data and perform anomaly detection on it. 
 This will cover
 1. Ingest large volumes of data and store efficiently 
-2. Analyse hostorical data and build ML models on them
+2. Analyse historical data and build ML models based off of them
 3. Perform real-time/ near real time analysis on the incoming streaming data
 
 ### Approach:
