@@ -4,11 +4,11 @@
 HVAC Anomaly Detection System 
 
 ### Problem statement:
-Many problems around us deal with understanding patterns and recognizing anomalies *in realtime*. For example, the task of monitoring a datacentermight include CPU usage for various servers, bandwidth measurements, latency of servicing requests, etc. At each point in time t we would like to determine whether the behavior of the system is unusual. The determination must be made in real-time/as soon as possible. This becomes more challenging with large amounts of data. 
+Perform anomaly detection on time-series data of Internet of Things (IoT) based on Heating, Ventilation and Air Conditioning (HVAC) systems. With the rapid growth of IoT based HVAC systems it becomes crutial to detect short-term anomalies and long-term anomalies. The detection must be made in real-time/as soon as possible in in Labs, <> . This becomes more challenging with large amounts of data. 
 
 ### Abstract:
 
-To solve this, we are building a system to scalibily ingest IoT data and perform anomaly detection on it. 
+To solve this, we are building a system to scalibily ingest HVAC IoT data and perform anomaly detection on it. 
 This will cover
 1. Ingest large volumes of data and store efficiently 
 2. Analyse hostorical data and build ML models on them
