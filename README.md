@@ -4,7 +4,7 @@
 HVAC Anomaly Detection System 
 
 ### Problem statement:
-Perform anomaly detection on time-series data of Internet of Things (IoT) based on Heating, Ventilation and Air Conditioning (HVAC) systems. With the rapid growth of IoT based HVAC systems it becomes crutial to detect short-term anomalies and long-term anomalies. The detection must be made in real-time/as soon as possible in in Labs, <> . This becomes more challenging with large amounts of data. 
+Perform anomaly detection on time-series data of Internet of Things (IoT) based on Heating, Ventilation and Air Conditioning (HVAC) systems. With the rapid growth of IoT based HVAC systems it becomes crutial to detect short-term anomalies and long-term anomalies. The detection must be made in real-time/as soon as possible in in BioTech, Hospitals, Data Centeres. This becomes more challenging with large amounts of data. 
 
 ### Abstract:
 
