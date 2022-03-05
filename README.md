@@ -20,7 +20,7 @@ Basic Architecture
 ![ai basic anomaly project](https://user-images.githubusercontent.com/98665151/155423222-68623b06-e9a8-4691-98bf-979baf453cc4.jpeg)
 
 ### Personas:
-Manufacturing Shop Floor monitor, Data Centers Monitoring, Any Critical Monitoring systems/ workforce
+HVAC Manufacturer, HVAC Commercial/Residential Users
 
 ### Relevant Datasets:
 https://github.com/sassoftware/iot-anomaly-detection-hvac/tree/master/data
