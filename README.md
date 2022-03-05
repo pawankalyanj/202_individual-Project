@@ -4,7 +4,7 @@
 HVAC AnoML - A HVAC Anomaly Detection System 
 
 ### Problem statement:
-Perform anomaly detection on time-series data of Internet of Things (IoT) based on Heating, Ventilation and Air Conditioning (HVAC) systems. HVAC systems are crucial in providing appropriate environmental conditions in terms of temperature, humidity, pressure, and flow rate while being energy efficient. With the rapid growth of IoT based HVAC systems it becomes crutial to detect short-term anomalies and long-term anomalies. The detection must be made in real-time/as soon as possible in in Hospitals, Data Centers, BioTech Labs. This becomes more challenging with large amounts of data. 
+Perform anomaly detection on time-series data of Internet of Things (IoT) based on Heating, Ventilation and Air Conditioning (HVAC) systems. HVAC systems are crucial in providing appropriate environmental conditions in terms of temperature, humidity, pressure, and flow rate while being energy efficient. With the rapid growth of IoT based HVAC systems it becomes crutial to detect short-term anomalies and long-term anomalies in heating and cooling, and air quality. The detection must be made in real-time/as soon as possible in in Hospitals, Data Centers, BioTech Labs. This becomes more challenging with large amounts of data. 
 
 ### Abstract:
 
