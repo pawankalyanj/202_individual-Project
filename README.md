@@ -1,7 +1,7 @@
 # Group-25
 ## Project
 ### Title:
-AI-IoT Anomaly Detection System 
+HVAC Anomaly Detection System 
 
 ### Problem statement:
 Many problems around us deal with understanding patterns and recognizing anomalies *in realtime*. For example, the task of monitoring a datacentermight include CPU usage for various servers, bandwidth measurements, latency of servicing requests, etc. At each point in time t we would like to determine whether the behavior of the system is unusual. The determination must be made in real-time/as soon as possible. This becomes more challenging with large amounts of data. 
@@ -23,14 +23,6 @@ Basic Architecture
 Manufacturing Shop Floor monitor, Data Centers Monitoring, Any Critical Monitoring systems/ workforce
 
 ### Relevant Datasets:
-https://github.com/numenta/NAB
-
-https://www.kaggle.com/caesarlupum/iot-sensordata
-
-https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill
-
-https://github.com/IBM/iot-predictive-analytics/blob/master/data/iot_sensor_dataset.csv
-
 https://github.com/sassoftware/iot-anomaly-detection-hvac/tree/master/data
 
 https://catalog.data.gov/dataset/alphabuilding-synthetic-dataset
