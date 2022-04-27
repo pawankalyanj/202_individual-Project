@@ -29,6 +29,10 @@ https://catalog.data.gov/dataset/alphabuilding-synthetic-dataset
 
 https://ieee-dataport.org/documents/hvac-air-handling-units-one-year-data-medium-large-size-academic-building
 
+--
+### Example program dashboard
+![Dashboard 1](https://user-images.githubusercontent.com/32498849/165637112-bbb6607b-4730-4376-b3f8-4f635e4fe4fa.png)
+
 ---
 
 ### Understanding and researching users and personas for our application
@@ -106,7 +110,7 @@ What’s the need they’re trying to meet? Turn user needs into project goals.
 According to IBM In 2020, 59% of the electricity consumed by IBM globally came from renewable sources and they are aiming to make it 90% by 2030. This is a budget and eco-friendly solution.
 As a business owner, anyone will try to cut down the installation and maintenance costs, for example, the data center running with 100’s of machines needs to be cooled down and keep the temperature in check for efficient performance. In this situation we don’t need to invest a lot in heating solutions. So meeting the customer’s needs and demands by offering the best cost-efficient method will write a great success story.
  
-#### Wow
+#### How
 How will you differentiate from competitors? How will you measure success?
 We are offering the best cost-efficient and eco-friendly solution according to their business and individual needs. This can be achieved by using renewable energy and biofuels and also implementing an HVAC system according to local climate conditions and which best suits their own needs. This will gradually cut down the cost for any business or an individual. As we discussed earlier, adapting to climate change and using renewable energy sources for an efficient solution is the key to our success.
 
