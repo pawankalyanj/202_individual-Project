@@ -54,8 +54,9 @@ WANTS
 - Wants to be able to ensure HVAC machines are working to the best of their capacity
 - Wants to be able to focus on business matters than be bogged down by routine checks of HVAC systems that maybe crucial to running of business 
 - Smarter solutions that don’t require technical or programming expertise to enlist the latest advancements in data crunching technologies
+
 FRUSTRATIONS
--Does not have the technical knowledge to perform cursory checks on efficiency of HVAC Machines
+- Does not have the technical knowledge to perform cursory checks on efficiency of HVAC Machines
 - Does not have the appropriate equipment or sensors to perform checks on HVAC Systems
 - Does not have the appropriate knowledge to parse through metadata provided by IoT based apps
 
