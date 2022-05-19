@@ -17,7 +17,7 @@ This will cover
 ### Approach:
 
 Basic Architecture 
-![ai basic anomaly project](https://user-images.githubusercontent.com/98665151/155423222-68623b06-e9a8-4691-98bf-979baf453cc4.jpeg)
+![arcg](https://user-images.githubusercontent.com/32498849/169204892-97a6a866-74cc-403c-bc88-8c1ee1c8d755.gif)
 
 ### Personas:
 HVAC Manufacturer, HVAC Commercial/Residential Users
