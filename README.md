@@ -7,7 +7,6 @@ HVAC AnoML - A HVAC Anomaly Detection System
 Perform anomaly detection on time-series data of Internet of Things (IoT) based on Heating, Ventilation and Air Conditioning (HVAC) systems. HVAC systems are crucial in providing appropriate environmental conditions in terms of temperature, humidity, pressure, and flow rate while being energy efficient. With the rapid growth of IoT based HVAC systems it becomes crutial to detect short-term anomalies and long-term anomalies in heating and cooling, and air quality. The detection must be made in real-time/as soon as possible in in Hospitals, Data Centers, BioTech Labs. This becomes more challenging with large amounts of data. 
 
 ### Abstract:
-
 To solve this, we are building a system to scalibily ingest HVAC IoT data and perform anomaly detection on it. 
 This will cover
 1. Ingest large volumes of data and store efficiently 
@@ -15,18 +14,15 @@ This will cover
 3. Perform real-time/ near real time analysis on the incoming streaming data
 
 ### Approach:
+Our basic approach is that the data from the sensors gets ingested into the cloud via GCP Functions.  The system was tested with bursty high-velocity data like seen on some sensors - the serverless functions were able to autoscaling upto 100 to support high velocity ingestion and scaling down. There are two parts of the system, detection of real-time anomalies and prediction of future breakdowns. For real-time, we use an algorithm that learns the pattern from the data and detects real-time anomaly using Z-Score (with millisecond latency). While for predictions, we used a RNN based model leveraged via Facebook's Prophet software.
+
+1. Detection of real-time anomalies 
+The algorithm learns the pattern from the data and detects real-time anomaly using Z-Score (with millisecond latency), The current alert is sends through an email notification. 
 
 Basic Architecture 
 ![arcg](https://user-images.githubusercontent.com/32498849/169204892-97a6a866-74cc-403c-bc88-8c1ee1c8d755.gif)
 
-### Personas:
-HVAC Manufacturer, HVAC Commercial/Residential Users
-
-### Relevant Datasets:
-https://github.com/sassoftware/iot-anomaly-detection-hvac/tree/master/data
-
-https://catalog.data.gov/dataset/alphabuilding-synthetic-dataset
-
+### Relevant Dataset:
 https://ieee-dataport.org/documents/hvac-air-handling-units-one-year-data-medium-large-size-academic-building
 
 --
