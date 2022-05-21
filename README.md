@@ -19,6 +19,8 @@ Our basic approach is that the data from the sensors gets ingested into the clou
 Basic Architecture 
 ![arcg](https://user-images.githubusercontent.com/32498849/169204892-97a6a866-74cc-403c-bc88-8c1ee1c8d755.gif)
 
+High level block Diagram
+![image](https://user-images.githubusercontent.com/32498849/169639160-9c7dec4a-0447-4704-ae7d-f91e094b719f.png)
 
 Block Diagram of the two paths
 1. Real time-anomaly detection 
