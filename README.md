@@ -22,13 +22,11 @@ Basic Architecture
 ### Relevant Dataset:
 https://ieee-dataport.org/documents/hvac-air-handling-units-one-year-data-medium-large-size-academic-building
 
-### Link to deployed application
-https://majestic-syrniki-4d8693.netlify.app/
-
 ### Example program dashboard
 <img width="987" alt="Screen Shot 2022-05-18 at 9 23 12 PM" src="https://user-images.githubusercontent.com/32498849/169204220-341282a8-9ad2-42e8-9abd-b618ed69d3aa.png">
 
-
+## Link to deployed application
+https://majestic-syrniki-4d8693.netlify.app/
 ---
 
 ### Understanding and researching users and personas for our application
