@@ -16,9 +16,6 @@ This will cover
 ### Approach:
 Our basic approach is that the data from the sensors gets ingested into the cloud via GCP Functions.  The system was tested with bursty high-velocity data like seen on some sensors - the serverless functions were able to autoscaling upto 100 to support high velocity ingestion and scaling down. There are two parts of the system, detection of real-time anomalies and prediction of future breakdowns. For real-time, we use an algorithm that learns the pattern from the data and detects real-time anomaly using Z-Score (with millisecond latency). While for predictions, we used a RNN based model leveraged via Facebook's Prophet software.
 
-1. Detection of real-time anomalies 
-The algorithm learns the pattern from the data and detects real-time anomaly using Z-Score (with millisecond latency), The current alert is sends through an email notification. 
-
 Basic Architecture 
 ![arcg](https://user-images.githubusercontent.com/32498849/169204892-97a6a866-74cc-403c-bc88-8c1ee1c8d755.gif)
 
