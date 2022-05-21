@@ -19,6 +19,14 @@ Our basic approach is that the data from the sensors gets ingested into the clou
 Basic Architecture 
 ![arcg](https://user-images.githubusercontent.com/32498849/169204892-97a6a866-74cc-403c-bc88-8c1ee1c8d755.gif)
 
+
+Block Diagram of the two paths
+1. Real time-anomaly detection 
+2. Analyzing historical data to find pattern and make future predictions 
+
+![Mfinal drawio (2)](https://user-images.githubusercontent.com/98665151/169639158-3864f9eb-09fb-457e-afce-abdea742199f.png)
+
+
 ### Relevant Dataset:
 https://ieee-dataport.org/documents/hvac-air-handling-units-one-year-data-medium-large-size-academic-building
 
