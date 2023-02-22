@@ -1,7 +1,7 @@
 import psycopg2
 from datetime import datetime, timedelta
 
-CONNECTION = "postgres://tsdbadmin:AVNS_qdv_vgOhhiXe9T2@tsdb-206531ac-sjsu-0c73.a.timescaledb.io:16433/sensordata?sslmode=require"
+CONNECTION = "replace this"
 conn = psycopg2.connect(CONNECTION)
 
 def prediction(request):
