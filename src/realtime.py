@@ -1,6 +1,6 @@
 import psycopg2
 
-CONNECTION = "postgres://tsdbadmin:AVNS_qdv_vgOhhiXe9T2@tsdb-206531ac-sjsu-0c73.a.timescaledb.io:16433/sensordata?sslmode=require"
+CONNECTION = "replace this"
 conn = psycopg2.connect(CONNECTION)
 
 def hello_world(request):
